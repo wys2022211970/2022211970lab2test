@@ -27,7 +27,7 @@
  * 输入只包含合法的最简分数，每个分数的分子与分母的范围是  [1,10]。 如果分母是1，意味着这个分数实际上是一个整数。
  * 输入的分数个数范围是 [1,10]。
  * 最终结果的分子与分母保证是 32 位整数范围内的有效整数。
- */
+ */你好
 class Solution10 {
     public String fractionAddition(String expression) {
         long x = 0, y = 1; // 分子，分母
